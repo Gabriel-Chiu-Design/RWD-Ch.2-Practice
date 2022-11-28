@@ -67,9 +67,10 @@ a{
     padding: 12px 24px;
     box-shadow: 1px 0px 10px #E5E5E5;
 }
-.header h1{
+.header h1 a{
     background:url(https://raw.githubusercontent.com/hexschool/HTMLHWSource/master/singlePage/logo.png
     ) no-repeat;
+    display:block;
     height: 50px;
     width: 224px;
     color:transparent;
