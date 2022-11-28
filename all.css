@@ -141,6 +141,7 @@ a{
     .header li a:hover{
         font-weight: bold;
         border:0px;
+        padding: 12px 0px;
         background:white;
         color:#00CC99;
     }
